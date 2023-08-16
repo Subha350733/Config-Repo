@@ -18,16 +18,21 @@
       It's a convenient annotation that combines @Controller and @ResponseBody, 
       which eliminates the need to annotate every request handling method of the controller class with the @ResponseBody annotation.
 
-@RequestMapping — by Path
-@GetMapping
-@PostMapping
-@PutMapping
-@DeleteMapping
-@PatchMapping
+@RequestMapping — < Component -> Spring WEB >
+@GetMapping - < Component -> Spring WEB >
+@PostMapping - < Component -> Spring WEB >
+@PutMapping - < Component -> Spring WEB >
+@DeleteMapping - < Component -> Spring WEB >
+@PatchMapping - < Component -> Spring WEB >
 
-@RequestBody
-@ResponseBody
-@RequestParam
-@PathVariable
+@RequestBody - < Component -> Spring WEB >
+@ResponseBody - < Component -> Spring WEB >
+@RequestParam - < Component -> Spring WEB >
+@PathVariable - < Component -> Spring WEB >
+
+
+
+
+
 
 
