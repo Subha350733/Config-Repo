@@ -43,6 +43,11 @@
 @PathVariable - < Spring WEB >
 
 
+@EnableEurekaServer : < Spring Cloud >
+
+@EnableDiscoveryClient : < Spring Cloud >
+
+
 
 
 
