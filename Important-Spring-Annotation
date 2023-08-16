@@ -7,6 +7,10 @@
 
 @Value : < Spring Framework >
 
+@Service : < Spring Framework >
+
+@Copmonent : < Spring Framework >
+
 @SpringBootApplication : < Spring Boot >
 
       Starting point of any Spring Boot Application .
