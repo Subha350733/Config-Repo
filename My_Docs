@@ -1,0 +1,45 @@
+Spring Cloud and MicroService :
+
+1. Creating Spring Boot MicroService
+2. Spring Cloud Netflix Eureka service registry and Discovery
+3. Spring Cloud API Gateway
+4. Spring Cloud Config Server
+5. Externalize Configuration using GIT
+6. Making REST call to Other services
+    1. Using REST Template
+    2. Using Web Client Template
+    3. Using Open Feign Client
+7. Spring Cloud Load Balancer
+8. Fault Tolerance and Circuit Breaker with Resilence4j
+9. Distributed tracing with Sleuth and Zipkin
+10. Spring Cloud Actuator
+11. Spring Profile
+12. Centralized Exception Handling
+
+
+Other Important Concepts :
+
+1. Spring Framework
+2. Spring Boot
+3. Spring Web MVC
+4. Spring Cloud
+5. Spring Data JPA
+6. Spring Security
+7. Spring Authorization Server
+8. Spring Session
+9. Spring Hateoas
+10. Spring AMQP
+
+
+
+1. Event Sourcing and Event Driven Architecture
+2. CQRS and SAGA Design Pattern
+3. Choreography and Orchestration 
+4. Spring Event Sourcing and Event Driven Architecture using AXON framework
+5. Spring Cloud Integration with RabbitMQ for Event driven system
+6. Spring Cloud Integration with Kafka for Event Driven System
+
+
+
+
+
