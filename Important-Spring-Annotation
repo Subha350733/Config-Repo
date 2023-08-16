@@ -1,5 +1,4 @@
 
-
 @SpringBootApplication : < Component -> Spring Boot >
 
       Starting point of any Spring Boot Application .
@@ -10,3 +9,25 @@
       @EnableAutoConfiguration: enable Spring Boot’s auto-configuration mechanism
       @ComponentScan: enable @Component scan on the package where the application is located
       @SpringBootConfiguration: allow to register extra beans in the context or import additional configuration classes
+
+@RestController : < Component -> Spring WEB >
+
+      Mark any class as a REST Controller
+
+      Spring 4.0 introduced the @RestController annotation in order to simplify the creation of RESTful web services. 
+      It's a convenient annotation that combines @Controller and @ResponseBody, 
+      which eliminates the need to annotate every request handling method of the controller class with the @ResponseBody annotation.
+
+@RequestMapping — by Path
+@GetMapping
+@PostMapping
+@PutMapping
+@DeleteMapping
+@PatchMapping
+
+@RequestBody
+@ResponseBody
+@RequestParam
+@PathVariable
+
+
