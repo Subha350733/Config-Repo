@@ -1,5 +1,13 @@
 
-@SpringBootApplication : < Component -> Spring Boot >
+@Autowired :   < Spring Framework >
+
+@Configuration :  < Spring Framework >
+
+@Bean :  < Spring Framework >
+
+@Value : < Spring Framework >
+
+@SpringBootApplication : < Spring Boot >
 
       Starting point of any Spring Boot Application .
       
@@ -10,7 +18,7 @@
       @ComponentScan: enable @Component scan on the package where the application is located
       @SpringBootConfiguration: allow to register extra beans in the context or import additional configuration classes
 
-@RestController : < Component -> Spring WEB >
+@RestController : < Spring WEB >
 
       Mark any class as a REST Controller
 
@@ -18,17 +26,17 @@
       It's a convenient annotation that combines @Controller and @ResponseBody, 
       which eliminates the need to annotate every request handling method of the controller class with the @ResponseBody annotation.
 
-@RequestMapping — < Component -> Spring WEB >
-@GetMapping - < Component -> Spring WEB >
-@PostMapping - < Component -> Spring WEB >
-@PutMapping - < Component -> Spring WEB >
-@DeleteMapping - < Component -> Spring WEB >
-@PatchMapping - < Component -> Spring WEB >
+@RequestMapping — < Spring WEB >
+@GetMapping - < Spring WEB >
+@PostMapping - < Spring WEB >
+@PutMapping - < Spring WEB >
+@DeleteMapping - < Spring WEB >
+@PatchMapping - < Spring WEB >
 
-@RequestBody - < Component -> Spring WEB >
-@ResponseBody - < Component -> Spring WEB >
-@RequestParam - < Component -> Spring WEB >
-@PathVariable - < Component -> Spring WEB >
+@RequestBody - < Spring WEB >
+@ResponseBody - < Spring WEB >
+@RequestParam - < Spring WEB >
+@PathVariable - < Spring WEB >
 
 
 
